@@ -32,4 +32,5 @@ This project is for educational purposes and uses Windows security logs for lear
 ## Practical Evidence
 
 ![Windows Event ID 4625](event-4625-details.png.png)
+![Failed Login Events](failed-login-events.png)
 
